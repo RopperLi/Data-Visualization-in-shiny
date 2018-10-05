@@ -1,2 +1,5 @@
 # Data-Visualization-in-shiny
-The data is downloaded from the city of Melbourne website, and the visualization is about the on street parking data in Melbourne CBD 
+This data visualization project uses R language by using shiny package
+To check the details of the project you need first load all codes in the newnew.R
+And click the 'run app' button in the R studio
+
